@@ -8,4 +8,4 @@
 
 <h2>Certifications</h2>
 <h4>AZ-900 Exam Booked</h4>
-<h4>AZ-104 studying</h4>
+<h4>AZ-104 Studying</h4>
