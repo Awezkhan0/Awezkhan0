@@ -1,19 +1,18 @@
-Hello, I'm Awez
+<h1>Hi, I'm Awez <br/><a href="https://github.com/joshmadakor1">Desktop Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/"/a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
-My journey in 2nd line desktop support has led me to develop a passion for cloud and infrastructure, and I am now eager to transition into this field, specifically aiming to join a Junior Cloud Operations role 
-
-Certifications
-
-AZ-900 Exam booked
-
-AZ-104 currently studying
-
-Projects
-
-
-Azure Secure Two-Tier Network Project
+<h2>👨‍💻 Azure Cloud Projects:</h2>
 
 
 
+<h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: 
+[youtube]: 
+[instagram]: 
+[linkedin]: 
 
