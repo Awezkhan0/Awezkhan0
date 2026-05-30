@@ -1,4 +1,4 @@
-<h1>Hi, I'm Awez <br/><a >Desktop Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/"/a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+<h1>Hi, I'm Awez | <span style="font-size:0.8em">Desktop Engineer & Junior Cloud</span></h1>
 
 <h2>👨‍💻 Azure Cloud Projects:</h2>
 - [Azure Secure Two-Tier Network Project]
