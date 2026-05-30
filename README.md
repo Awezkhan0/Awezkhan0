@@ -8,6 +8,11 @@ AZ-900 Exam booked
 
 AZ-104 currently studying
 
+Projects
+
+
+Azure Secure Two-Tier Network Project
+
 
 
 
