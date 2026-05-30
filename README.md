@@ -3,7 +3,7 @@
 <h2>👨‍💻 Azure Cloud Projects:</h2>
 - [Active Directory Bulk User Creation]
 
-(https://github.com/joshmadakor1/AD_PS)
+(https://github.com/Awezkhan0/Azure-Two-Tier-Network-Lab.git)
 
 
 <h2> 🤳 Connect with me:</h2>
