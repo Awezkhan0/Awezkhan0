@@ -1,6 +1,6 @@
 <h1> Awez Khan | <span style="font-size:0.8em">Desktop Engineer & Cloud Trainee</span></h1>
 
-<h2>👨‍💻 Azure Cloud Projects:</h2>
+<h2>☁️ Azure Cloud Projects:</h2>
 - [Azure Secure Two-Tier Network Project]
 
 (https://github.com/Awezkhan0/Azure-Two-Tier-Network-Lab.git)
