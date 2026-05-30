@@ -1,4 +1,4 @@
-<h1>Hi, I'm Awez | <span style="font-size:0.8em">Desktop Engineer & Junior Cloud</span></h1>
+<h1>Hi, I'm Awez | <span style="font-size:0.8em">Desktop Engineer & Cloud Trainee</span></h1>
 
 <h2>👨‍💻 Azure Cloud Projects:</h2>
 - [Azure Secure Two-Tier Network Project]
