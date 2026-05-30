@@ -1,9 +1,8 @@
-<h1> Awez Khan | <span style="font-size:0.8em">Desktop Engineer & Cloud</span></h1>
+# Hi, I'm Awez Khan 
+### Desktop Engineer → Junior Cloud Engineer ☁️
 
-<h2>☁️ Azure Cloud Projects:</h2>
-- [Azure Secure Two-Tier Network Project]
-
-(https://github.com/Awezkhan0/Azure-Two-Tier-Network-Lab.git)
+<h2>Azure Cloud Projects:</h2>
+- [Azure Secure Two-Tier Network Project] (https://github.com/Awezkhan0/Azure-Two-Tier-Network-Lab.git)
 
 
 <h2>Certifications</h2>
