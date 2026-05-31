@@ -2,7 +2,7 @@
 ### Desktop Engineer → Aspiring Cloud Engineer ☁️
 
 <h2>Azure Cloud Projects:</h2>
-- [Azure Secure Two-Tier Network Project] (https://github.com/Awezkhan0/Azure-Two-Tier-Network-Lab.git)
+- [AAzure Secure Network Lab — Jump Box Architecture] (https://github.com/Awezkhan0/Azure-Two-Tier-Network-Lab.git)
 
 
 <h2>Certifications</h2>
