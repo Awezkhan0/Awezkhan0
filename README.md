@@ -7,5 +7,5 @@
 -[Azure IAM, RBAC & Group Based Access Control Lab] (https://github.com/Awezkhan0/Azure-Iam-RBAC-Labs/blob/main/README.md)
 
 <h2>Certifications</h2>
-<h4>AZ-900 Exam Booked</h4>
-<h4>AZ-104 Studying</h4>
+<h4>Microsoft Azure Fundamentals AZ-900 (Passed)
+<h4>AZ-104 (Exam Booked)
