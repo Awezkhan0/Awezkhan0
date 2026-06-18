@@ -1,14 +1,11 @@
 # Hi, I'm Awez Khan 
 ### Desktop Engineer → Aspiring Cloud Engineer ☁️
 
-<h2>Azure Cloud Projects:</h2>
+## Azure Cloud Projects
 
--[Azure Secure Network Lab — Jump Box Architecture] (https://github.com/Awezkhan0/Azure-Two-Tier-Network-Lab.git)
-
-
--[Azure IAM, RBAC & Group Based Access Control Lab] (https://github.com/Awezkhan0/Azure-Iam-RBAC-Labs/blob/main/README.md)
-
--[Azure IAM, RBAC Hierarchy Scope Lab] (https://github.com/Awezkhan0/Azure-IAM-RBAC-Lab-Scope-Hierarchy/blob/main/README.md)
+- [Azure Secure Network Lab — Jump Box Architecture](https://github.com/Awezkhan0/Azure-Two-Tier-Network-Lab) — secure two-tier network with NSGs, a jump box, and Azure Bastion
+- [Azure IAM, RBAC & Group-Based Access Control Lab](https://github.com/Awezkhan0/Azure-Iam-RBAC-Labs) — direct vs group-based access, role revocation, and least privilege
+- [Azure IAM, RBAC Hierarchy Scope Lab](https://github.com/Awezkhan0/Azure-IAM-RBAC-Lab-Scope-Hierarchy) — scope hierarchy and least privilege proven across three user personas
 
 <h2>Certifications</h2>
 <h4>Microsoft Azure Fundamentals AZ-900 (Passed)
